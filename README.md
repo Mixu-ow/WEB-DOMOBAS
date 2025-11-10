@@ -53,7 +53,7 @@ Sitio web estático que presenta los servicios de DOMOBAS: instalación de siste
 ## 📧 Contacto
 
 - 📞 Teléfono: +591 67881969
-- ✉️ Email: bracamontevazquezmitsukokaren.com
+- ✉️ Email: bracamontevazquezmitsukokaren@gmail.com
 - 📍 Ubicación: Warnes, Santa Cruz - Bolivia
 
 ---
